@@ -1,2 +1,2 @@
 # RobinHood
-"Tirar dos ricos para dar aos pobres"
+Tudo relacionado ao projeto Robin Hood.
