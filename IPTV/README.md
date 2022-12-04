@@ -4,8 +4,10 @@ Uma IPTV em ficheiro m3u gratuita com todos os canais desportivos portugueses pa
 
 ## Como utilizar
 Existem várias maneiras de meter a IPTV a funcionar, as maneiras que ensino não são todas as existentes.
-### Android/Smart TV Android
-[Tudo relacionado a como utilizar a IPTV no Android ou na Smart TV Android encontra-se aqui.](https://github.com/the-nos4a2/RobinHood/wiki/Como-utilizar-a-IPTV-no-Android)
+### Android
+[Tudo relacionado a como utilizar a IPTV no Android encontra-se aqui.](https://github.com/the-nos4a2/RobinHood/wiki/Como-utilizar-a-IPTV-no-Android)
+### Android TV
+[Tudo relacionado a como utilizar a IPTV na Android TV encontra-se aqui.](https://github.com/the-nos4a2/RobinHood/wiki/Como-utilizar-a-IPTV-na-Android-TV)
 ### iOS
 [Tudo relacionado a como utilizar a IPTV no iOS encontra-se aqui.](https://github.com/the-nos4a2/RobinHood/wiki/Como-utilizar-a-IPTV-no-iOS)
 ### Computador
