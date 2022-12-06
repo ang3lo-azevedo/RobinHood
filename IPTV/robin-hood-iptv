@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/v158yx7891c614kdn9mw"
+#EXTINF:-1 tvg-chno="1" tvg-id="ESPN2.br" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99096_dark_360w_270h.png" group-title="Canais",ESPN 2
+https://rebrand.ly/robin-hood-iptv-espn-2
+#EXTINF:-1 tvg-chno="2" tvg-id="SportTV1(src01).pt" tvg-name="SPORT TV 1" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="Canais",SPORT TV 1
+https://rebrand.ly/robin-hood-iptv-sport-tv-1
+#EXTINF:-1 tvg-chno="3" tvg-id="SportTV2(src01).pt" tvg-name="SPORT TV 2" tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="Canais",SPORT TV 2
+https://rebrand.ly/robin-hood-iptv-sport-tv-2
+#EXTINF:-1 tvg-chno="4" tvg-id="SportTV3(src01).pt" tvg-name="SPORT TV 3" tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="Canais",SPORT TV 3
+https://rebrand.ly/robin-hood-iptv-sport-tv-3
+#EXTINF:-1 tvg-chno="5" tvg-id="SportTV4(src01).pt" tvg-name="SPORT TV 4" tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="Canais",SPORT TV 4
+https://rebrand.ly/robin-hood-iptv-sport-tv-4
+#EXTINF:-1 tvg-chno="6" tvg-id="SportTV5(src01).pt" tvg-name="SPORT TV 5" tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="Canais",SPORT TV 5
+http://rebrand.ly/robin-hood-iptv-sport-tv-5
+#EXTINF:-1 tvg-chno="7" tvg-id="NBA(src01).pt" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1024px-NBA_TV.svg.png" group-title="Canais",NBA TV
+https://rebrand.ly/robin-hood-iptv-nba-tv
+#EXTINF:-1 tvg-chno="8" tvg-id="ElevenSports1(src01).pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://static.epg.best/pt/ElevenSports1.pt.png" group-title="Canais",ELEVEN SPORTS 1
+https://rebrand.ly/robin-hood-iptv-eleven-sports-1
+#EXTINF:-1 tvg-chno="9" tvg-id="ElevenSports2(src01).pt" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://static.epg.best/pt/ElevenSports2.pt.png" group-title="Canais",ELEVEN SPORTS 2
+https://rebrand.ly/robin-hood-iptv-eleven-sports-2
+#EXTINF:-1 tvg-chno="10" tvg-id="ElevenSports3(src01).pt" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://static.epg.best/pt/ElevenSports3.pt.png" group-title="Canais",ELEVEN SPORTS 3
+https://rebrand.ly/robin-hood-iptv-eleven-sports-3
+#EXTINF:-1 tvg-chno="11" tvg-id="ElevenSports4(src01).pt" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://static.epg.best/pt/ElevenSports4.pt.png" group-title="Canais",ELEVEN SPORTS 4
+https://rebrand.ly/robin-hood-iptv-eleven-sports-4
+#EXTINF:-1 tvg-chno="12" tvg-id="ElevenSports5(src01).pt" tvg-name="ELEVEN SPORTS 5" tvg-logo="https://static.epg.best/pt/ElevenSports5.pt.png" group-title="Canais",ELEVEN SPORTS 5
+https://rebrand.ly/robin-hood-iptv-eleven-sports-5
+#EXTINF:-1 tvg-chno="12" tvg-id="ElevenSports6(src01).pt" tvg-name="ELEVEN SPORTS 6" tvg-logo="https://static.epg.best/pt/ElevenSports6.pt.png" group-title="Canais",ELEVEN SPORTS 6
+https://rebrand.ly/robin-hood-iptv-eleven-sports-6
+#EXTINF:-1 tvg-chno="14" tvg-id="BENFICATV(src01).pt" tvg-name="Benfica TV" tvg-logo="https://static.epg.best/pt/BenficaTV1.pt.png" group-title="Canais",Benfica TV
+https://rebrand.ly/robin-hood-iptv-benfica-tv
