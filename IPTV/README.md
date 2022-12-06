@@ -1,6 +1,6 @@
 # Robin Hood IPTV
 
-Uma IPTV em ficheiro m3u gratuita com todos os canais desportivos portugueses pagos e alguns canais extras.
+Uma IPTV em ficheiro m3u gratuita com todos os canais pagos portugueses e alguns canais extras.
 
 ## Como utilizar
 Existem várias maneiras de meter a IPTV a funcionar, as maneiras que ensino não são todas as existentes.
