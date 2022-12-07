@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://bit.ly/robin-hood-iptv-epg"
-#EXTINF:-1 tvg-chno="1" tvg-id="SportTV1(src01).pt" tvg-name="SPORT TV 1" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="Canais",SPORT TV 1
+#EXTINF:-1 tvg-chno="1" tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="Canais",SPORT TV 1
 https://rebrand.ly/robin-hood-iptv-sport-tv-1
-#EXTINF:-1 tvg-chno="2" tvg-id="SportTV2(src01).pt" tvg-name="SPORT TV 2" tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="Canais",SPORT TV 2
+#EXTINF:-1 tvg-chno="2" tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="Canais",SPORT TV 2
 https://rebrand.ly/robin-hood-iptv-sport-tv-2
-#EXTINF:-1 tvg-chno="3" tvg-id="SportTV3(src01).pt" tvg-name="SPORT TV 3" tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="Canais",SPORT TV 3
+#EXTINF:-1 tvg-chno="3" tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="Canais",SPORT TV 3
 https://rebrand.ly/robin-hood-iptv-sport-tv-3
-#EXTINF:-1 tvg-chno="4" tvg-id="SportTV4(src01).pt" tvg-name="SPORT TV 4" tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="Canais",SPORT TV 4
+#EXTINF:-1 tvg-chno="4" tvg-id="SPORT TV 4" tvg-name="SPORT TV 4" tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="Canais",SPORT TV 4
 https://rebrand.ly/robin-hood-iptv-sport-tv-4
 #EXTINF:-1 tvg-chno="5" tvg-id="SportTV5(src01).pt" tvg-name="SPORT TV 5" tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="Canais",SPORT TV 5
 http://rebrand.ly/robin-hood-iptv-sport-tv-5
