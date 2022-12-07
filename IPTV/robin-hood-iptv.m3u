@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://rebrand.ly/robin-hood-iptv-epg"
+#EXTM3U url-tvg="https://bit.ly/robin-hood-iptv-epg"
 #EXTINF:-1 tvg-chno="1" tvg-id="SportTV1(src01).pt" tvg-name="SPORT TV 1" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="Canais",SPORT TV 1
 https://rebrand.ly/robin-hood-iptv-sport-tv-1
 #EXTINF:-1 tvg-chno="2" tvg-id="SportTV2(src01).pt" tvg-name="SPORT TV 2" tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="Canais",SPORT TV 2
