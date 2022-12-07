@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://rebrand.ly/robin-hood-iptv-epg"
-#EXTINF:-1 tvg-chno="1" tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="Canais",SPORT TV 1
+#EXTINF:-1 tvg-chno="1" tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="Canais",SPORT TV 1
 https://rebrand.ly/robin-hood-iptv-sport-tv-1
 #EXTINF:-1 tvg-chno="2" tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="Canais",SPORT TV 2
 https://rebrand.ly/robin-hood-iptv-sport-tv-2
@@ -23,7 +23,7 @@ https://rebrand.ly/robin-hood-iptv-eleven-sports-4
 https://rebrand.ly/robin-hood-iptv-eleven-sports-5
 #EXTINF:-1 tvg-chno="11" tvg-id="ElevenSports6(src01).pt" tvg-name="ELEVEN 6" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/let2ub1601112435.png" group-title="Canais",ELEVEN SPORTS 6
 https://rebrand.ly/robin-hood-iptv-eleven-sports-6
-#EXTINF:-1 tvg-chno="13" tvg-id="BENFICATV(src01).pt" tvg-name="Benfica TV" tvg-logo="https://static.epg.best/pt/BenficaTV1.pt.png" group-title="Canais",Benfica TV
+#EXTINF:-1 tvg-chno="13" tvg-id="BenficaTV.pt" tvg-name="Benfica TV" tvg-logo="https://static.epg.best/pt/BenficaTV1.pt.png" group-title="Canais",Benfica TV
 https://rebrand.ly/robin-hood-iptv-benfica-tv
 #EXTINF:-1 tvg-chno="14" tvg-id="TVCineTOP(src01).pt" tvg-name="TVCine TOP" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="Canais",TVCine TOP
 https://rebrand.ly/robin-hood-iptv-tvcine-top
