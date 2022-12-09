@@ -12,17 +12,17 @@ http://rebrand.ly/robin-hood-iptv-sport-tv-5
 #EXTINF:-1 tvg-chno="6" tvg-id="NBA(src01).pt" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1024px-NBA_TV.svg.png" group-title="Canais",NBA TV
 https://rebrand.ly/robin-hood-iptv-nba-tv
 #EXTINF:-1 tvg-chno="7" tvg-id="ElevenSports1(src01).pt" tvg-name="ELEVEN 1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ixqrsj1601112641.png" group-title="Canais",ELEVEN 1
-https://rebrand.ly/robin-hood-iptv-eleven-sports-1
+https://rebrand.ly/robin-hood-iptv-eleven-1
 #EXTINF:-1 tvg-chno="8" tvg-id="ElevenSports2(src01).pt" tvg-name="ELEVEN 2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/i7mjna1601113121.png" group-title="Canais",ELEVEN 2
-https://rebrand.ly/robin-hood-iptv-eleven-sports-2
+https://rebrand.ly/robin-hood-iptv-eleven-2
 #EXTINF:-1 tvg-chno="9" tvg-id="ElevenSports3(src01).pt" tvg-name="ELEVEN 3" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/2ls4291601118186.png" group-title="Canais",ELEVEN 3
-https://rebrand.ly/robin-hood-iptv-eleven-sports-3
+https://rebrand.ly/robin-hood-iptv-eleven-3
 #EXTINF:-1 tvg-chno="10" tvg-id="ElevenSports4(src01).pt" tvg-name="ELEVEN 4" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vdwr2e1601129826.png" group-title="Canais",ELEVEN 4
-https://rebrand.ly/robin-hood-iptv-eleven-sports-4
+https://rebrand.ly/robin-hood-iptv-eleven-4
 #EXTINF:-1 tvg-chno="11" tvg-id="ElevenSports5(src01).pt" tvg-name="ELEVEN 5" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/net9go1601127537.png" group-title="Canais",ELEVEN 5
-https://rebrand.ly/robin-hood-iptv-eleven-sports-5
+https://rebrand.ly/robin-hood-iptv-eleven-5
 #EXTINF:-1 tvg-chno="11" tvg-id="ElevenSports6(src01).pt" tvg-name="ELEVEN 6" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/let2ub1601112435.png" group-title="Canais",ELEVEN 6
-https://rebrand.ly/robin-hood-iptv-eleven-sports-6
+https://rebrand.ly/robin-hood-iptv-eleven-6
 #EXTINF:-1 tvg-chno="13" tvg-id="BENFICATV(src01).pt" tvg-name="Benfica TV" tvg-logo="https://static.epg.best/pt/BenficaTV1.pt.png" group-title="Canais",Benfica TV
 https://rebrand.ly/robin-hood-iptv-benfica-tv
 #EXTINF:-1 tvg-chno="14" tvg-id="TVCineTOP(src01).pt" tvg-name="TVCine TOP" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="Canais",TVCine TOP
@@ -33,12 +33,9 @@ https://rebrand.ly/robin-hood-iptv-tvcine-edition
 https://rebrand.ly/robin-hood-iptv-tvcine-emotion
 #EXTINF:-1 tvg-chno="17" tvg-id="TVCineACTION(src01).pt" tvg-name="TVCine ACTION" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="Canais",TVCine ACTION
 https://rebrand.ly/robin-hood-iptv-tvcine-action
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOS Studios" tvg-logo="" group-title="Canais",NOS Studios
+#EXTINF:-1 tvg-chno="18" tvg-id="NOSStudios(src01).pt" tvg-name="NOS Studios" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques_programacao/logo_NOSSTUDIOS-white.png" group-title="Canais",NOS Studios
 https://rebrand.ly/robin-hood-iptv-nos-studios
-#EXTINF:-1 tvg-chno="18" tvg-id="ESPN2.br" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99096_dark_360w_270h.png" group-title="Canais",ESPN 2
+#EXTINF:-1 tvg-chno="19" tvg-id="ESPN2.br" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99096_dark_360w_270h.png" group-title="Canais",ESPN 2
 https://rebrand.ly/robin-hood-iptv-espn-2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="Canais",Sky Sports F1
+#EXTINF:-1 tvg-chno="20" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74410_dark_360w_270h.png" group-title="Canais",Sky Sports F1
 https://rebrand.ly/robin-hood-iptv-sky-sports-f1
-
-#EXTINF:-1 tvg-chno="18" tvg-id="ESPN2.br" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99096_dark_360w_270h.png" group-title="Canais",ESPN 2
-https://rebrand.ly/robin-hood-iptv-espn-2
