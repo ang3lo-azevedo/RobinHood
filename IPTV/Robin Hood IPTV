@@ -39,5 +39,7 @@ https://rebrand.ly/robin-hood-iptv-nos-studios
 https://rebrand.ly/robin-hood-iptv-espn-2
 #EXTINF:-1 tvg-chno="20" tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76100_dark_360w_270h.png" group-title="Canais",ESPN 4
 https://rebrand.ly/robin-hood-iptv-espn-4
+#EXTINF:-1 tvg-id="KCBS.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Canais",CBS
+https://rebrand.ly/robin-hood-iptv-cbs
 #EXTINF:-1 tvg-chno="21" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74410_dark_360w_270h.png" group-title="Canais",Sky Sports F1
 https://rebrand.ly/robin-hood-iptv-sky-sports-f1
